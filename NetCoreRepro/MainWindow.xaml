@@ -7,9 +7,6 @@
                  mc:Ignorable="d"
                  Title="MainWindow" Height="350" Width="525"
                  AllowsTransparency="True"
-                 WindowStyle="None"
-                 ShowMaxRestoreButton="True"
-                 Background="White"
-                 ShowTitleBar="True">
+                 Background="White">
     <Grid />
 </mah:MetroWindow>
